@@ -1,0 +1,1 @@
+// This is a binary file representation, but we'll convert the SVG to ICO format with the same design
